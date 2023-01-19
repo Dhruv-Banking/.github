@@ -1,7 +1,7 @@
 # Welcome to Dhruv Banking:tm:
 
 ## Tech stack
-<a margin="40px" href=https://svelte.dev/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/51f83dfc2091cdec25b7b33bd2d3da0996ec3efd/icons/svelte.svg'>
+<a margin="40px" href=https://svelte.dev/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/51f83dfc2091cdec25b7b33bd2d3da0996ec3efd/icons/react.svg'>
 <a margin="40px" href=https://nodejs.org/en/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/51f83dfc2091cdec25b7b33bd2d3da0996ec3efd/icons/nodejs.svg'>
 <a margin="40px" href=https://www.typescriptlang.org/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/51f83dfc2091cdec25b7b33bd2d3da0996ec3efd/icons/typescript.svg'>
 <a margin="40px" href=https://www.postgresql.org/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/51f83dfc2091cdec25b7b33bd2d3da0996ec3efd/icons/postgresql.svg'>
