@@ -1,6 +1,6 @@
 # Welcome to Dhruv Banking:tm:
 
-<img src="../assets/plan.png">
+<img src="https://raw.githubusercontent.com/Dhruv-Banking/.github/main/assets/plan.png">
 
 ## Tech stack
 
